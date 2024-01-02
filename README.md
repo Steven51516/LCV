@@ -1,4 +1,4 @@
-# LCV
+# scLCV
 
 ## Repository for "Exploring the Impact of Single-Cell Gene Expression Variability on Drug Efficacy"
 
